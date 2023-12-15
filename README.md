@@ -13,9 +13,10 @@ npx jest PasswordChecker.test.js
 ```
 ### output:
 
-* passwordChecker Program: ![u](Outputs/Program_1.png)
+* passwordChecker Program: ![Program_1](https://github.com/VINOTH-RAJ-R/IppoPay/assets/58362629/b15fb33b-f884-4633-bee3-faf7ad46df0b)
 
-* minAbsoluteDifference Program: ![u](/Outputs/Program_2.png)
+* minAbsoluteDifference Program: ![Program_2](https://github.com/VINOTH-RAJ-R/IppoPay/assets/58362629/0b403ec2-3175-464c-a018-56bb937283ac)
+
 
 
 ## Program 3:
@@ -39,6 +40,8 @@ npm start
 * http://localhost:3000
 
 ### Output:
-* Front-end : ![u](../Outputs/Program_3_Front_End.png) 
-* Back end: ![u](../Output's/Program_3_Back_end.png)
+* Front-end : ![Program_3_Front_End](https://github.com/VINOTH-RAJ-R/IppoPay/assets/58362629/a92581b8-62c1-4018-a21c-a78fd8605bc0)
+
+* Back end: ![Program_3_Back_end](https://github.com/VINOTH-RAJ-R/IppoPay/assets/58362629/03ecfc58-8075-4770-8603-a68b9afdc866)
+
 
