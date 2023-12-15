@@ -13,9 +13,9 @@ npx jest PasswordChecker.test.js
 ```
 ### output:
 
-* passwordChecker Program: ![u](../Output's/Program-1.png)
+* passwordChecker Program: ![u](Outputs/Program_1.png)
 
-* minAbsoluteDifference Program: ![u](../Output's/Program-2.png)
+* minAbsoluteDifference Program: ![u](/Outputs/Program_2.png)
 
 
 ## Program 3:
@@ -39,6 +39,6 @@ npm start
 * http://localhost:3000
 
 ### Output:
-* Front-end : ![u](../Output's/Program-3%20Front-End.png) 
-* Back end: ![u](../Output's/Program-3%20Back-end.png)
+* Front-end : ![u](../Outputs/Program_3_Front_End.png) 
+* Back end: ![u](../Output's/Program_3_Back_end.png)
 
