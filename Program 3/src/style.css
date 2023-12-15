@@ -1,0 +1,87 @@
+/* styles.css */
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Optional: Set a background color */
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px; /* Adjust the margin as needed */
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  label {
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
+  .input-container {
+    display: inline-block;
+    margin-top: 5px;
+  }
+  
+  input {
+    padding: 8px;
+    border-radius: 10px; /* Add curved corners */
+    border: 1px solid #ccc;
+  }
+  
+  .button-container {
+    display: inline-block;
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .password-info {
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .password-info p {
+    display: inline-block; /* Ensure all <p> elements are inline */
+    margin-right: 10px; /* Add some spacing between them */
+  }
+  
+  .strength-bar {
+    width: 100px; /* Set a fixed width for the strength bar */
+    height: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: #ccc; /* Default color for the bar */
+    margin-top: 5px;
+  }
+  
+  .weak {
+    background-color: #ff6363; /* Red for weak */
+  }
+  
+  .strong {
+    background-color: #6eff6e; /* Green for strong */
+  }
+  
+  div > p {
+    margin: 5px 0;
+  }
+  
