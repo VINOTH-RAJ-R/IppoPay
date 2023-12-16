@@ -26,14 +26,14 @@ I have create the front-end using React. The input from the users are processed 
 MongoDb Name: PasswordChecker
 DB collection Name: Password's
 
-**To run the server file Command is**
+**Command to the server file**
 ```
 nodemon server.js
 ```
 
 * mongodb://localhost:27017/passwordchecker
 
-**To run the front-end Command is**
+**Command to the front end is**
 ```
 npm start
 ```
